@@ -49,10 +49,17 @@ https://docs.google.com/spreadsheets/d/1lu7TtDILIlQaq6jA_KoL5qj5OYPm8ds57QCMuHP5
 ・テキストエディタ
 ・タスク管理
 
-# ローカルでの動作方法※	git cloneしてから、ローカルで動作をさせるまでに必要なコマンドを記載。
+# ローカルでの動作方法
+
+※	git cloneしてから、ローカルで動作をさせるまでに必要なコマンドを記載。
+
 % git clone https://github.com/NorioYama/kaigo_app
+
 % cd kaigo_app
+
 % bundle install
+
 % yarn install
 
-# 工夫したポイント※	制作背景・使用技術・開発方法・タスク管理など、企業へＰＲしたい事柄を記載。
+# 工夫したポイント
+※	制作背景・使用技術・開発方法・タスク管理など、企業へＰＲしたい事柄を記載。
